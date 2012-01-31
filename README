@@ -1,0 +1,7 @@
+Intro:
+This is a program I made for my CompSci 122 class at Penn State. I learned about git from ACM and wanted to give it a try. Any feedback or suggestions would be fantastic. 
+
+
+This is a simple program that takes input of email addresses as a text files and then outputs a text document with a 1 or 0 next to the email address. A 1 indidcates it's valid, and a 0 indicates an invalid address.
+
+The program expects a text file named 'Email.txt' in the same directory as the code. The program then outputs the validation in a text file named 'Results.txt'
