@@ -35,16 +35,4 @@ void main()
 	system("pause");
 }
 
-
-
-
-
-
-
 // Provide user with information on what the program is doing.
-// Write out the valid characters, much fewer than invalid characters
-// Do not hard code constants, use variable names
-// Make a function for . and - rules
-// Can use find to look for .. .- -. --
-// Read 4.1
-// Quiz on Tuesday
